@@ -61,7 +61,7 @@ html{background: url(about:black) fixed;}
     text-align: center;opacity: 0.7;padding-top: 15px}
 .itemQK, .itemFB{width: 35%;float: left;height: 100%;}
 .itemFB{float: right;}
-.page4-center{margin-left: 35%;margin-right: 35%;height: 100%;display: block;}
+.page4-center{margin-left: 35%;margin-right: 35%;height: 100%;display: block;width:30%;}
 
 .icon h3{color: #ffffff;font-size: 24px;line-height: 30px}
 .iconFB h3{margin-top: 20px}
